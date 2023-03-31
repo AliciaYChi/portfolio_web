@@ -92,9 +92,9 @@ nav ul li a:hover::after{
 
 .button{
     border-radius: 12px;
-    background-color: bisque;
+    background-color: rgb(64, 57, 82);
     border: none;
-    color: #663030;
+    color: #ffffff;
     padding: 10px;
     text-align: center;
     text-decoration: none;
