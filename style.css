@@ -114,6 +114,12 @@ nav ul li a:hover::after{
     padding-left: 15%;
     padding-right: 15%;
 }
+.row_2{
+  text-align: center;
+  padding: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
 .about-col-1{
     flex-basis: 35%;
 }
