@@ -13,12 +13,13 @@ body{
     width: 100%;
     height: 100%;
     background-image: url(images/background_glitch_art.png);
-    background-repeat: repeat-y;
+
+ 
 
 }
 #portfolio_header{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-color: rgb(36, 36, 36);
     background-size: cover;
     background-position: right ;
@@ -86,7 +87,7 @@ nav ul li a:hover::after{
 }
 
 .button_statement{
-    padding: 5%;
+    padding: 2%;
 }
 
 .button{
