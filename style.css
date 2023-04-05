@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -221,6 +222,12 @@ nav ul li a:hover::after{
     padding-left: 2%;
 }
 .row{
+  text-align: center;
+  padding: 50px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.row_car{
   background-color: #040305;
   opacity: 85%;
   text-align: left;
