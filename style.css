@@ -24,7 +24,7 @@ html {
 			position: absolute;
 			top: 50%;
 			width: auto;
-			padding: 16px;
+			padding: 20px;
 			margin-top: -22px;
 			color: white;
 			font-weight: bold;
@@ -150,7 +150,7 @@ nav{
 .logo{
     padding-top: 10px;
     padding-left: 2%;
-    width: 4%;
+    width: 6%;
 }
 
 nav ul li{
@@ -334,7 +334,7 @@ nav ul li a:hover::after{
     margin: auto;
     display: block;
     width: 80%;
-    max-width: 700px;
+    max-width: 1000px;
   }
   
   #caption {
